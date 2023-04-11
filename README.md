@@ -7,3 +7,7 @@ gcc -o main main.c -std=c99 -Wall -I/usr/local/include/ -L/usr/local/lib/librayl
 ```
 
 Sprites taken from https://github.com/samuelcust/flappy-bird-assets
+
+## Example
+
+![In Game](images/game.png)
